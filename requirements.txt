@@ -1,0 +1,10 @@
+-e .
+aws_cdk.aws_events
+aws_cdk.aws_events_targets
+aws_cdk.aws_iam
+aws-cdk.aws-lambda
+aws_cdk.aws_logs
+aws_cdk.aws_s3
+aws_cdk.aws_s3_deployment
+aws_cdk.aws_ssm
+geoip2

@@ -1,2 +1,5 @@
 # maxmind-geolite2
-GeoLite2 databases are free IP geolocation databases from MaxMind that contain Country, City, and ASN information, updated every Tuesday.
+
+This product includes GeoLite2 data created by MaxMind, available from https://www.maxmind.com.
+
+![maxmind-geolite2](maxmind-geolite2-cfn.png)
